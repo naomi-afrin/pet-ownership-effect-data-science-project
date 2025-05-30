@@ -45,18 +45,16 @@ We conducted a survey among university students to explore how pet ownership aff
 
 ---
 
-## 📈 Visualizations
+## 📈 Visual Highlights
 
-We visualized:
-- Agreement on pet benefits
-- Stress relief by pet ownership
-- Social impact and activity levels
-- Correlation heatmap
+![Agreement on Pet Benefits](Project/images/agreement_distribution.png)
+*Most participants strongly agreed that pets improve overall well-being.*
 
-> 🖼 To enable images in this README, save plots using `plt.savefig()` and store them in an `/images` directory, then embed using:
-> ```markdown
-> ![Title](images/filename.png)
-> ```
+![Stress Relief by Pet Ownership](Project/images/stress_relief_by_pet.png)
+*Pet owners reported stress relief more frequently than non-owners.*
+
+![Correlation Heatmap](Project/images/correlation_heatmap.png)
+*Heatmap showing relationships between pet-related factors.*
 
 ---
 
@@ -66,3 +64,9 @@ We visualized:
    ```bash
    git clone https://github.com/naomi-afrin/pet-ownership-effect-data-science-project.git
    cd pet-ownership-effect-data-science-project
+
+## 📬 Contact
+
+If you have any questions or are interested in collaboration, feel free to reach out:  
+📧 naomiafrin12@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/naomi-jalil-240160227/)
